@@ -1,0 +1,110 @@
+title: BMW E46 320i Touring (1999)
+numbering: false
+order: manifest
+size: [40, 30]
+items:
+    - IMG_4454.jpeg:
+          title: Eerste werkplek
+          zoom: 1.2
+    - title: Eerste klus (vastgeroeste remklauw)
+      rows: 1
+      cols: 3
+      colspan: 2
+      items:
+          - B7210564-8762-4632-9ED2-A8F0FEA8A1CE_1_105_c.jpeg
+          - BEF7FC95-B702-48E2-BB10-B253934EF2FF_1_105_c.jpeg
+          - 48B75DC7-74C9-49CD-8620-A3247A87FEAE_1_105_c.jpeg
+    - IMG_4964.jpeg: Remklauwen voor de zomer
+    - IMG_4968.JPG:
+          position: [50, 0]
+    - IMG_5587.jpeg:
+          title: Kleppendekselpakking
+          zoom: .9
+          position: [50, 70]
+    - title: Verlagen
+      rows: 1
+      items:
+          - title: Voor / Na
+            date: false
+            rows: 2
+            rowspan: 1
+            items:
+                - IMG_5792.jpeg:
+                      position: [50, 51]
+                - IMG_5816.jpeg:
+                      position: [50, 40]
+          - title: Achter / Voor
+            date: false
+            rows: 1
+            cols: 2
+            colspan: 1
+            items:
+                - IMG_5795.jpeg:
+                - IMG_5815.jpeg:
+    - title: Koelsysteem
+      date: 2024-04-06
+      margin: 0.4
+      rows: 2
+      cols: 3
+      colspan: 2
+      items:
+          - IMG_6288.jpeg
+          - IMG_5879.jpeg
+          - title: Waterpomp / Thermostaat
+            date: false
+            cols: 2
+            colspan: 1
+            items:
+                - IMG_6291.jpeg:
+                      position: [30, 50]
+                - IMG_6292.jpeg:
+                      position: [30, 50]
+          - IMG_6302.jpeg
+          - IMG_6306.jpeg
+          - IMG_6320.JPG
+    - title: Vloeistoffen & Cold Air Intake
+      rows: 1
+      cols: 3
+      colspan: 2
+      items:
+          - IMG_7170.jpeg # 2024-11-08
+          - IMG_7169.jpeg # 2024-11-08
+          - IMG_7171.jpeg: # 2024-11-10
+                date: 2024-11-08
+    - title: Kerst en stuurpomp
+      date: 2024-12-26
+      margin: 0.4
+      rows: 2
+      cols: 2
+      items:
+          - title: Kapot en afgesleept
+            cols: 2
+            colspan: 1
+            items:
+                - IMG_7319.jpeg
+                - IMG_7321.jpeg
+          - IMG_7334.jpeg # 2024-12-26
+          - 57230C96-EE7B-46AD-BB6B-FAA15C00961D_1_105_c.jpeg: # 2024-12-26
+                position: [50, 30]
+          - 154d934b-f204-464e-ae04-7d6d4b43dd40.jpg:
+                date: 2024-12-26
+    - IMG_7413.jpeg # 2025-01-18
+    - IMG_7480.jpeg: Verloren knipperlicht # 2025-02-07
+    - title: Alcantara sport interieur
+      margin: 0.4
+      rows: 2
+      cols: 2
+      items:
+          - IMG_7893.jpeg # 2025-05-19
+          - 7cb4d99e-a6cb-4e60-a4a5-05ce7ade2b4c.jpg:
+                date: 2025-10-30
+          - items:
+                - 3B81C532-AE09-48D4-AFAE-8EDC226138A8_1_105_c.jpeg:
+                      position: [50, 60]
+                - A7C33C45-105E-4B08-B5F6-24000B016E31_1_105_c.jpeg:
+                      zoom: 1.1
+            cols: 2
+            colspan: 1
+          - IMG_7691.jpeg # 2025-03-31
+    - IMG_8020.jpeg # 2025-05-31
+    - 9D9703F4-A25D-4791-B144-11D38E9FBDF0_6ED58040-178E-4ECF-B9BB-290380B3BE61.jpg: Remblokjes voor Parijs
